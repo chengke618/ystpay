@@ -1,17 +1,23 @@
-˫�������ʽ�÷�Ȩ������
-1.
-Dozens of miles of railway track have been torn up. 
 
-�ü�ʮӢ������챻�ٻ��ˡ�
+linux命令vi如何不保存退出编辑
 
-2.
-She had spent years trying to track down her parents. 
+ 
+你使用linux vi/vim 文本编辑器对linux下某个配置文件做编辑操作，当你更改完之后，可以保存退出文件，也可以不保存退出vi/vim 编辑器，也就是说更改的所有操作都不会保存。
+当你通过vi/vim更改文件之后，按“Esc“键，退出”insert“模式，然后输入冒号（：）,紧接着输入下面的命令：q!
 
-���Ѿ����˺ö���ʱ����ͼ׷Ѱ��ĸ�����䡣
 
-3.
-Across the river the railway track ran up to the pithead. 
 
-������������ֱ��󾮿ڡ�
 
-�鿴����
+ 
+猜你喜欢
+linux vi保存退出命令(如何退出vi)
+11/26 23:01
+有很多方法： 退出Vi 当编辑完文件，准备退出Vi返回到shell时，可以使用以下几种方法之一。 在命令模式中，连按两次大写字母Z，若当前编辑的文件曾被修改过，则Vi保存该文件后退出，返回到shell ...
+
+linux下vi命令修改文件及保存等使用方法整理
+11/02 12:05
+vi是所有UNIX系统都会提供的屏幕编辑器，它提供了一个视窗设备，通过它可以编辑文件。当然，对UNIX系统略有所知的人， 或多或少都觉得vi超级难用，但vi是最基本的编辑器，所以希望读者能好好把它学起 ...
+
+linux下vi编辑器命令大全
+11/01 00:42
+功能最强在的编辑器——vi vi是所有UNIX系统都会提供的屏幕编辑器，它提供了一个视窗设备，通过它可以编辑文件。当然，对UNIX系统略有所知的人， 或多或少都觉得vi超级难用，但vi是最基本的编辑器 ...
