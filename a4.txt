@@ -1,4 +1,4 @@
-3
+a4 3
 铁路,公路,小路,人行道,小巷
 
 tow-pathpathpathwaywalkraceby-passlineroadwayrailwayrailroadalleywayfootpathstripbeatenroadtrackwalkwaycoursepavementpassagelaneby-wayaislepassage-waybicycletrailbridle
