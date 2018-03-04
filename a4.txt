@@ -1,0 +1,18 @@
+3
+铁路,公路,小路,人行道,小巷
+
+tow-pathpathpathwaywalkraceby-passlineroadwayrailwayrailroadalleywayfootpathstripbeatenroadtrackwalkwaycoursepavementpassagelaneby-wayaislepassage-waybicycletrailbridle
+
+1
+其他释义
+
+runwaysongfootstepfollow
+
+英英词典英汉双向大词典
+ANoun
+1
+1. a line or route along which something travels or moves;
+
+"the hurricane demolished houses in its path"
+"the track of an animal"
+"the course of the river"
