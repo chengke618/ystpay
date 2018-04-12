@@ -181,3 +181,5 @@ if __name__ == "__main__":
     # judge_prime(112321.2)
     count_times("nihao  sad as  as ma ?")
 #git 练:wq习
+#git diff 使用练习 、
+# .gitignore文件使用：
